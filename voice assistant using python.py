@@ -1,7 +1,6 @@
 import subprocess
 import wolframalpha
 import pyttsx3
-import tkinter
 import json
 import random
 import operator
